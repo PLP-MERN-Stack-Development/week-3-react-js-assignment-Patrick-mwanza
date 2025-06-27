@@ -10,3 +10,30 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 📝 Task Manager
+
+A modern and responsive task management application built with **React**, **Vite**, **Tailwind CSS**, and **pnpm**.  
+Users can add, complete, delete, and filter tasks — with persistent local storage and a clean UI.
+
+---
+
+##  Tech Stack
+
+- ⚛ React (Vite)
+-  Tailwind CSS
+-  React Hooks (`useState`, `useEffect`, `useContext`)
+-  LocalStorage
+-  Component-based architecture
+-  pnpm (package manager)
+
+---
+
+##  Setup Instructions
+
+> Make sure Node.js and pnpm are installed on your system.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Patrick-mwanza.git
+cd week-3-react-js-assignment-Patrick-mwanza
