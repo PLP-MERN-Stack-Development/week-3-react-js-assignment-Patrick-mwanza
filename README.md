@@ -30,6 +30,10 @@ Users can add, complete, delete, and filter tasks — with persistent local stor
 
 ##  Setup Instructions
 
+
+## Screenshots of your application [<img width="463" alt="image" src="https://github.com/user-attachments/assets/0350bca4-3123-4372-9afa-12291313022b" />]
+
+
 > Make sure Node.js and pnpm are installed on your system.
 
 ### 1. Clone the repository
